@@ -6,6 +6,11 @@ p {
     text-align: center;
 }
 
+h1 { text-align: center;/*  alinhando o nome do colegio*/
+
+
+}
+
 em strong {
     color: #FF0000;
 }
